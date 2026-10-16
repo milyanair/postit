@@ -1,0 +1,5 @@
+build/
+tools/storeshots/*.html
+node_modules/
+*.key
+*.sig
